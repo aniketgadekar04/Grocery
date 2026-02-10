@@ -63,7 +63,7 @@ function Navbar() {
           {/* input field */}
           <div className="flex items-center border-2 p-1 border-orange-500 rounded-full">
             <input
-            className="flex-1 px-3 h-[5vh] focus-visible:outline-none"
+              className="flex-1 px-3 h-[5vh] focus-visible:outline-none"
               type="text"
               name="text"
               id="text"
